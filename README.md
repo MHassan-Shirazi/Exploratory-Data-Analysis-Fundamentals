@@ -172,7 +172,7 @@ A detailed step-by-step checklist to perform thorough EDA on any dataset.
   <hr>
   <hr>
 <br>
-## Univariate Analysis
+<h2> Univariate Analysis</h2>
 Har single column ko deeply samajhna jahan hum distribution, missing values aur data behavior analyze kartay hain. Yeh Data Analyst ke liye foundation hai jo accurate analysis ki base banata hai.
 
 ## Bivariate Analysis
@@ -196,7 +196,7 @@ Multiple variables ke combined effect ko samajhne ki basic understanding rakhi j
 <hr>
 <hr>
 <br>
-Mean (Average)
+<h2> Mean (Average)</h2>
 Data ke tamam values ka average jo overall central value batata hai aur general trend ko represent karta hai.
 
 ## Median
